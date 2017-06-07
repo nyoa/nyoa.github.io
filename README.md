@@ -1,10 +1,10 @@
 nyoa.github.io
 ---
 ### About
-芝を生やすことだけに専念したい
+Sample page for Server/and more...
 
 ### How to
-サーバ組んだときのテストにでも使って、どうぞ。
+Use HelloWorld Page.
 
 ### Other
-なし
+None.
